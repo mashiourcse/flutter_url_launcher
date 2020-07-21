@@ -1,6 +1,12 @@
 # flutter_link
 
-A new Flutter application.
+flutter hyperlink.
+
+installation: 
+# goto pubspec.yaml and add dependencies url_launcher: ^5.4.2
+# in terminal run flutter pub get to update dependencies
+# copy the the code in main.dart
+# run the app in emulator or phone 
 
 ## Getting Started
 
